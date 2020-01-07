@@ -15,8 +15,8 @@
         "to_user": "收件者信箱帳號"
     }
    ```
-### 以 jupyter note book 開啟
-### 以 exe 執行黨開啟
+### 1. 以 jupyter note book 開啟(方法一)
+### 2. 以 .exe 執行檔開啟(方法二)
 > 檔案路徑至於 XXX 內
 
 
