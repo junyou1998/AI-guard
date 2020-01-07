@@ -8,7 +8,7 @@
 ### 在使用之前
 1. 先將 account.example.json 重新命名為 account.json
 2. 修改 account.json 內容
-   ```
+   ```json
     {
         "user": "寄件者信箱帳號",
         "password": "寄件者信箱密碼",
